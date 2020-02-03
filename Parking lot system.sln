@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parking lot system", "Parking lot system\Parking lot system.csproj", "{53D30904-0FE7-4F78-9EF2-631ABB932FC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestProject1", "XUnitTestProject1\XUnitTestProject1.csproj", "{CDB7C113-30CF-4164-A595-D060D6F010F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53D30904-0FE7-4F78-9EF2-631ABB932FC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53D30904-0FE7-4F78-9EF2-631ABB932FC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53D30904-0FE7-4F78-9EF2-631ABB932FC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53D30904-0FE7-4F78-9EF2-631ABB932FC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDB7C113-30CF-4164-A595-D060D6F010F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDB7C113-30CF-4164-A595-D060D6F010F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDB7C113-30CF-4164-A595-D060D6F010F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDB7C113-30CF-4164-A595-D060D6F010F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {912CE52C-1101-4030-938A-79B6DB26C1F5}
+	EndGlobalSection
+EndGlobal
